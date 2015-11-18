@@ -1,4 +1,4 @@
 <?php
 	echo "Halo GIT!";
-	echo "<br/> Good Bye!"
+	echo "<br/> Good Bye!";
 ?>
