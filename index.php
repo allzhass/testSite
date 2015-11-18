@@ -4,4 +4,5 @@
 	
 	YAAAAHooo
 	GooooooooGLE
+	YANDEX
 ?>
